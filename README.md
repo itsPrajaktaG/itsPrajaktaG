@@ -1,4 +1,20 @@
-# Hi th- 📍 Location: United States
+# Hi there! 👋 I'm Prajakta Gadhamsetty
+
+[![Followers](https://img.shields.io/github/followers/itsPrajaktaG?label=Followers&style=flat-square)](https://github.com/itsPrajaktaG)
+
+## About Me
+I'm a Computer Science enthusiast at Virginia Tech with a passion for software development. Currently gaining hands-on experience through internships and projects while exploring new technologies.
+
+- 📍 Location: United States
+- 🎓 Education: Virginia Polytechnic Institute and State University (Virginia Tech)
+- 💼 Experience: Software Engineering Intern at Peraton
+
+## What I'm up to
+- 🚀 Participating in VTHacks (Sep 26-28, 2025) at Virginia Tech
+- 💡 Working on innovative software projects
+- 🌱 Learning and growing in the tech field
+- 👯 Looking to collaborate on exciting projects
+- 📫 How to reach me: [pgadhams@vt.edu](mailto:pgadhams@vt.edu) 📍 Location: United States
 - 🎓 Education: Virginia Polytechnic Institute and State University (Virginia Tech)
 - 💼 Experience: Software Engineering Intern at Peraton!## What I'm up to
 - 🚀 Participating in VTHacks (Sep 26-28, 2025) at Virginia Tech
